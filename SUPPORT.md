@@ -9,7 +9,6 @@ This is the default support page for [Wave RF](https://github.com/Wave-RF) repos
 | **A "how do I…?" question** | The repository's **Discussions** tab, if it has one. Otherwise, open an issue. |
 | **A security vulnerability** | **Not a public issue.** Follow the [security policy](https://github.com/Wave-RF/.github/blob/main/SECURITY.md). |
 | **A WaveHouse Cloud question** | [wavehouse.cloud](https://wavehouse.cloud) |
-| **A business or partnership enquiry** | <hello@wave-rf.com>. |
 
 ## What to expect
 
