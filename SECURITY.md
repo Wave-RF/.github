@@ -8,7 +8,7 @@ This is the default security policy for every [Wave RF](https://github.com/Wave-
 
 Report it privately, either way:
 
-- **GitHub** (public repositories): open the repository's **Security** tab and choose **Report a vulnerability**. This opens a private advisory that only you and the maintainers can see.
+- **GitHub:** open the repository's **Security** tab and choose **Report a vulnerability**. This opens a private advisory that only you and the maintainers can see.
 - **Email:** write to **<security@wave-rf.com>**.
 
 Please include:

@@ -13,6 +13,6 @@ This is the default support page for [Wave RF](https://github.com/Wave-RF) repos
 
 ## What to expect
 
-Our open-source projects are maintained by a small team. Support is **best-effort, with no SLA**. We aim to reply within a few business days. If a thread goes a week without an answer, feel free to bump it.
+Our open-source projects are maintained by a small team. Support is **best-effort, with no SLA**. If a thread goes a week without an answer, feel free to bump it.
 
 Participation in any Wave RF space is governed by our [Code of Conduct](https://github.com/Wave-RF/.github/blob/main/CODE_OF_CONDUCT.md).

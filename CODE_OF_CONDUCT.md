@@ -36,7 +36,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement. On GitHub, open the **⋯** menu on the issue, pull request, discussion, or comment and choose **Report content**, then **Report to repository admins** where that option is offered. You can also email **<hello@wave-rf.com>**.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement. On GitHub, open the **⋯** menu on the issue, pull request, discussion, or comment and choose **Report content**, then **Report to repository admins**.
 
 All complaints will be reviewed and investigated promptly and fairly.
 

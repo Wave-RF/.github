@@ -5,7 +5,7 @@ Org-wide GitHub defaults for [@Wave-RF](https://github.com/Wave-RF).
 | File | What it does |
 | --- | --- |
 | [`profile/README.md`](profile/README.md) | Rendered on the **public** org profile at <https://github.com/Wave-RF>. |
-| [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Contributor Covenant 2.1. Reports go through GitHub's **Report content**, or to `hello@wave-rf.com`. |
+| [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Contributor Covenant 2.1. Reports go through GitHub's **Report content**. |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | General contribution guide: issues first, Conventional Commit PR titles, squash merges. |
 | [`SECURITY.md`](SECURITY.md) | Private reporting via GitHub or `security@wave-rf.com`. No response-time promise. WaveHouse and chtypes state theirs in their own `SECURITY.md`. |
 | [`SUPPORT.md`](SUPPORT.md) | Where to ask what. |
@@ -41,8 +41,9 @@ GitHub uses each file here for **every** repository in the org, **public and pri
    ```
 
    `SECURITY.md` tells reporters to use the **Report a vulnerability** button, so private vulnerability reporting must be on.
-3. If its issue `config.yml` links to Discussions, turn Discussions on (`gh api -X PATCH repos/Wave-RF/$r -F has_discussions=true`). Otherwise that link is a 404.
-4. Add it to the profile.
+3. In **Settings → Moderation options → Reported content**, widen reporting from the default (prior contributors and collaborators) to everyone. The Code of Conduct sends reports there, and we publish no other channel. Reports show up on that same settings page.
+4. If its issue `config.yml` links to Discussions, turn Discussions on (`gh api -X PATCH repos/Wave-RF/$r -F has_discussions=true`). Otherwise that link is a 404.
+5. Add it to the profile.
 
 ## Maintaining the profile
 
