@@ -10,7 +10,7 @@ Changes go live when they merge to `main`. Keep these files general, and use abs
 ## Making a repo public
 
 1. Give it its own `LICENSE`. GitHub can't apply a license as an org default.
-2. In **Settings → Code security**, turn on private vulnerability reporting, Dependabot security updates, and secret scanning with push protection.
+2. Apply the **Wave RF public** security configuration (org **Settings → Code security → Configurations**). New public repos get it automatically; a private repo that's made public doesn't.
 3. In **Settings → Moderation options → Reported content**, allow reports from everyone. It's the only conduct-reporting channel we publish.
 4. Add it to the profile.
 
