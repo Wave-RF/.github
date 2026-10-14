@@ -8,11 +8,11 @@ This is the default support page for [Wave RF](https://github.com/Wave-RF) repos
 | **A feature idea** | Open an issue in that repository, describing the problem you're trying to solve. |
 | **A "how do I…?" question** | The repository's **Discussions** tab, if it has one. Otherwise, open an issue. |
 | **A security vulnerability** | **Not a public issue.** Follow the [security policy](https://github.com/Wave-RF/.github/blob/main/SECURITY.md). |
-| **A WaveHouse Cloud question** | [wavehouse.cloud](https://wavehouse.cloud), or email <hello@wave-rf.com>. |
+| **A WaveHouse Cloud question** | [wavehouse.cloud](https://wavehouse.cloud) |
 | **A business or partnership enquiry** | <hello@wave-rf.com>. |
 
 ## What to expect
 
-Our open-source projects are maintained by a small team. Support is **best-effort, with no SLA**. We aim to reply within a few business days. If a thread goes a week without an answer, that's a miss on our side, so feel free to bump it.
+Our open-source projects are maintained by a small team. Support is **best-effort, with no SLA**. We aim to reply within a few business days. If a thread goes a week without an answer, feel free to bump it.
 
 Participation in any Wave RF space is governed by our [Code of Conduct](https://github.com/Wave-RF/.github/blob/main/CODE_OF_CONDUCT.md).
