@@ -5,9 +5,9 @@ Org-wide GitHub defaults for [@Wave-RF](https://github.com/Wave-RF).
 | File | What it does |
 | --- | --- |
 | [`profile/README.md`](profile/README.md) | Rendered on the **public** org profile at <https://github.com/Wave-RF>. |
-| [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Contributor Covenant 2.1. Reports go to `conduct@wave-rf.com`. |
+| [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Contributor Covenant 2.1. Reports go through GitHub's **Report content**, or to `hello@wave-rf.com`. |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | General contribution guide: issues first, Conventional Commit PR titles, squash merges. |
-| [`SECURITY.md`](SECURITY.md) | Private reporting via GitHub or `security@wave-rf.com`; 48-hour acknowledgement. |
+| [`SECURITY.md`](SECURITY.md) | Private reporting via GitHub or `security@wave-rf.com`. No response-time promise. WaveHouse and chtypes state theirs in their own `SECURITY.md`. |
 | [`SUPPORT.md`](SUPPORT.md) | Where to ask what. |
 | [`.github/PULL_REQUEST_TEMPLATE.md`](.github/PULL_REQUEST_TEMPLATE.md) | Summary, test plan, related issues. |
 | [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE/) | Bug report and feature request forms. Blank issues stay allowed. |

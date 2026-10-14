@@ -8,7 +8,7 @@ This is the default security policy for every [Wave RF](https://github.com/Wave-
 
 Report it privately, either way:
 
-- **GitHub:** open the repository's **Security** tab and choose **Report a vulnerability**. This opens a private advisory that only you and the maintainers can see.
+- **GitHub** (public repositories): open the repository's **Security** tab and choose **Report a vulnerability**. This opens a private advisory that only you and the maintainers can see.
 - **Email:** write to **<security@wave-rf.com>**.
 
 Please include:
@@ -18,8 +18,6 @@ Please include:
 - steps to reproduce, or a proof of concept
 - a suggested fix, if you have one
 
-We acknowledge reports within **48 hours** and aim to send an initial assessment within **5 business days**.
-
 ### WaveHouse Cloud
 
 A vulnerability in the hosted [WaveHouse Cloud](https://wavehouse.cloud) service, as opposed to the source code in these repositories, goes to **<security@wavehouse.cloud>**. See [wavehouse.cloud/security](https://wavehouse.cloud/security).
@@ -28,17 +26,6 @@ A vulnerability in the hosted [WaveHouse Cloud](https://wavehouse.cloud) service
 
 A few repositories here are forks of other projects. If the vulnerability is in the upstream code rather than in our changes, please report it to the upstream project.
 
-## Supported versions
+## What happens next
 
-| Version | Supported |
-| --- | --- |
-| Latest release of each project | Yes |
-| Older releases | Best effort |
-
-## Disclosure policy
-
-We follow [coordinated disclosure](https://en.wikipedia.org/wiki/Coordinated_vulnerability_disclosure). Once a fix is available, we will:
-
-1. release a patched version;
-2. publish a security advisory on GitHub;
-3. credit the reporter, unless they prefer to stay anonymous.
+We follow [coordinated disclosure](https://en.wikipedia.org/wiki/Coordinated_vulnerability_disclosure): we'll work with you on a fix and on when to make it public. Fixes go into the latest release of the project, and older releases may not get one. When a fix is out, we publish a GitHub security advisory and credit you, unless you'd prefer to stay anonymous.
