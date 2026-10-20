@@ -17,5 +17,5 @@ Changes go live when they merge to `main`. Keep these files general, and use abs
 ## Editing the profile
 
 - Link only to public repos, and don't name private ones anywhere in this repo.
-- The logos are hotlinked from wave-rf.com and from WaveHouse's [`docs/public/branding/`](https://github.com/Wave-RF/WaveHouse/tree/main/docs/public/branding). Use SVGs whose text is outlined to paths, and give each one an `alt`.
+- The logo is the official primary logo, committed in [`profile/assets/`](profile/assets/) as a light and a dark SVG: the brand file's own paths, recoloured only (`#231f20` on light, `#fff` on dark). GitHub serves a relative image in the profile from `main`, so a new image shows on the org page only after it merges. Use SVGs whose text is outlined to paths, and give each one an `alt`.
 - Links to our own sites carry `utm_source=github&utm_medium=referral&utm_campaign=org-profile&utm_content=<placement>`.
