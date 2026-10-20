@@ -1,0 +1,31 @@
+# Security Policy
+
+This is the default security policy for every [Wave RF](https://github.com/Wave-RF) repository that doesn't publish its own. If a repository has its own `SECURITY.md`, that one takes precedence.
+
+## Reporting a vulnerability
+
+**Please do not open a public issue, discussion, or pull request for a security vulnerability.**
+
+Report it privately, either way:
+
+- **GitHub:** open the repository's **Security** tab and choose **Report a vulnerability**. This opens a private advisory that only you and the maintainers can see.
+- **Email:** write to **<security@wave-rf.com>**.
+
+Please include:
+
+- the repository and the affected version or commit
+- a description of the vulnerability and its potential impact
+- steps to reproduce, or a proof of concept
+- a suggested fix, if you have one
+
+### WaveHouse Cloud
+
+A vulnerability in the hosted [WaveHouse Cloud](https://wavehouse.cloud) service, as opposed to the source code in these repositories, goes to **<security@wavehouse.cloud>**. See [wavehouse.cloud/security](https://wavehouse.cloud/security).
+
+### Forks
+
+A few repositories here are forks of other projects. If the vulnerability is in the upstream code rather than in our changes, please report it to the upstream project.
+
+## What happens next
+
+We follow [coordinated disclosure](https://en.wikipedia.org/wiki/Coordinated_vulnerability_disclosure): we'll work with you on a fix and on when to make it public. Fixes go into the latest release of the project, and older releases may not get one. When a fix is out, we publish a GitHub security advisory and credit you, unless you'd prefer to stay anonymous.
